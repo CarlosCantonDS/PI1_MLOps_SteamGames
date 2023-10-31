@@ -117,4 +117,9 @@ https://pi-mlops-fastapi.azurewebsites.net/docs y tiene /docs para mostrar la do
 ### Github de DEPLOY
 En este [Github](https://github.com/CarlosCantonDS/POC_Deploy_MLOps) se encuentran todos los archivos del deploy
 y está vinculado automáticamente con azure. https://github.com/CarlosCantonDS/POC_Deploy_MLOps
+
+### Archivos data ( están pesados, agregué un Drive)
+En este [Drive](https://drive.google.com/drive/folders/10P0B9Q-BKKJj-l0-c_7JXaSPHPnv_S_R?usp=sharing) se encuentra la carpeta data comprimida que es la que hace alución a los archivos data/ para los dataframes.
+
+
 # PI1_MLOps_SteamGames
